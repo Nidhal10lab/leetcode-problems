@@ -16,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 <!---LeetCode Topics End-->
