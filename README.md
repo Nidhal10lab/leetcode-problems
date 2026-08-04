@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2235-add-two-integers](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2235-add-two-integers/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
