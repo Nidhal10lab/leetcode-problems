@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 ## Math
@@ -54,4 +55,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
