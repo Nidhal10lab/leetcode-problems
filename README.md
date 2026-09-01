@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
