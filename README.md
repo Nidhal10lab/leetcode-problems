@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -64,10 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
