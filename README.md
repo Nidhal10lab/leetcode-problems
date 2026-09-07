@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
