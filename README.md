@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
