@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
