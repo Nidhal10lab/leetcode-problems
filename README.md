@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
