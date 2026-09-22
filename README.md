@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
