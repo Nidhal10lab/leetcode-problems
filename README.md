@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -98,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0050-powx-n/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
