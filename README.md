@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## String Matching
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
