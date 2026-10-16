@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -90,18 +91,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -115,4 +119,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0136-single-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
