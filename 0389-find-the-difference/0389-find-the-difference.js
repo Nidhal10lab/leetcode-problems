@@ -8,8 +8,6 @@ var findTheDifference = function(s, t) {
     let b=t.split("")
     let c=a.concat(b)
    let d = c.filter(
-        num => c.filter(n => n === num).length % 2 !== 0
-    );
-
+        num => c.filter(n => n === num).length % 2 !== 0)
     return d[0];
 };
