@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
