@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -131,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
