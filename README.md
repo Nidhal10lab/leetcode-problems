@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0819-most-common-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
