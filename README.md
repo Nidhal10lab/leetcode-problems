@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0819-most-common-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Recursion
@@ -152,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
