@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -159,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
