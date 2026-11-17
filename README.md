@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 | [0819-most-common-word](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0819-most-common-word/) | Easy |
