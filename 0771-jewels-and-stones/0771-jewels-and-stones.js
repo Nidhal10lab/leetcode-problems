@@ -12,7 +12,5 @@ var numJewelsInStones = function(jewels, stones) {
         count++
     }
     return count
-        
-    
 
 };
