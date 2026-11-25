@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nidhal10lab/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Nidhal10lab/leetcode-problems/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Nidhal10lab/leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Nidhal10lab/leetcode-problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
